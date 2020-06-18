@@ -1,7 +1,8 @@
 .jumbotron{
-    background: black;
+    background: navy;
     color: white;
-    padding: 0;
+    padding: 20;
+    font-family: Impact, Haettenschweiler, 'Arial Bold', sans-serif;
 }
 .display-3{
     text-align: center;
