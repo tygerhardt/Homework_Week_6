@@ -6,15 +6,6 @@
 .display-3{
     text-align: center;
 }
-.buttons-view{
-    position: absolute;
-    left: 20px;
-    top: 140px;
-    width: 150px;
-    border-style: solid;
-    border-width: 1px;
-
-}
 
 .cityWeather{
     flex-flow: column;
@@ -23,8 +14,4 @@
     padding: 5px;
     border-style: solid;
     border-width: 1px;
-}
-#run-search,
-#clear-search{
-    margin-top: 15px;
 }
